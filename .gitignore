@@ -11,6 +11,13 @@
 # production
 /build
 
+# keys - no longer needed, these should not be in project file
+known_hosts
+known_hosts.pub
+
+# notes
+react_resources.md
+
 # misc
 .DS_Store
 .env.local
